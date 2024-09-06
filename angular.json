@@ -35,30 +35,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/assets/css/feather.css",
-              "src/assets/css/materialdesignicons.min.css",
-              "src/assets/css/themify-icons.css",
-              "src/assets/css/themify-icons.css",
-              "src/assets/css/simple-line-icons.css",
-              "src/assets/css/vendor.bundle.base.css",
-              "src/assets/css/select.dataTables.min.css",
-              "src/assets/css/style.css"  
-            
-             
+              "src/styles.css"
+              
             ],
             "scripts": [
-              "src/assets/js/vendor.bundle.base.js",
-              "src/assets/js/Chart.min.js",
-              "src/assets/js/bootstrap-datepicker.min.js",
-              "src/assets/js/progressbar.min.js",
-              "src/assets/js/hoverable-collapse.js",
-              "src/assets/js/template.js",
-              "src/assets/js/settings.js",
-              "src/assets/js/todolist.js",
-              "src/assets/js/jquery.cookie.js",
-              "src/assets/js/dashboard.js",
-              "src/assets/js/Chart.roundedBarCharts.js"
+              
             
             ]
           },
